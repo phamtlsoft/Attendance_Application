@@ -1,0 +1,9 @@
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\bin\Debug\DXWindowsApplication.exe
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\bin\Debug\DXWindowsApplication.pdb
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.csprojResolveAssemblyReference.cache
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.Form1.resources
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.Properties.Resources.resources
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.csproj.GenerateResource.Cache
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.exe.licenses
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.exe
+D:\PROJECT\DOTNET\DXWindowsApplication\DXWindowsApplication\obj\Debug\DXWindowsApplication.pdb
